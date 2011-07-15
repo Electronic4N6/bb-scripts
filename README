@@ -1,1 +1,3 @@
 This repo contains all the scripts I've written for doing stuff with BlackBerry devices.
+
+bbt - Script to parse out thumbs.key files copied from BlackBerry devices
